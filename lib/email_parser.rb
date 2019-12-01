@@ -9,7 +9,3 @@ class EmailParser
 
     @csv_emails = csv_emails
   end
-
-
-
-  
